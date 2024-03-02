@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900445117732",
+    "project_id": "guidegap-c184f",
+    "storage_bucket": "guidegap-c184f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900445117732:android:4ba2ba2040ccf5e94ae7b1",
+        "android_client_info": {
+          "package_name": "com.example.guidegap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdIYGks1Qa4IdtyRG9PSErAA4GwZsZPwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
